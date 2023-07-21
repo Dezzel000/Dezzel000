@@ -1,26 +1,26 @@
-## 👋 Hello, I'm Mert!
+## 👋 Hello, I'm Robin!
 
-Welcome to my GitHub profile. I'm a frontend developer with a passion for creating engaging and user-friendly web applications. With a strong focus on design and a love for clean code, I strive to deliver exceptional digital experiences that leave a lasting impression.
+Thanks for stopping by my GitHub profile. I'm a passionate Backend Developer with a strong focus on building robust and scalable web applications. My expertise lies in crafting efficient and reliable server-side solutions to support a seamless user experience.
 
 ### 🚀 Skills
 
-- **Languages**: HTML, CSS, JavaScript
-- **Frontend Frameworks/Libraries**: React.js
-- **CSS Frameworks**: Bootstrap, Tailwind CSS
-- **Version Control**: Git
-- **UI/UX Design**: Figma
-- **Prototyping**: InVision, Adobe XD
+- **Programming Languages**: Proficient in Python, Lua, Java, and Node.js
+- **Databases**: Knowledgeable in SQL (MySQL, PostgreSQL) 
+- **RESTful APIs**: Skilled in designing and implementing RESTful APIs for seamless communication between frontend and backend
+- **Version Control**: Proficient in Git
+- **DevOps**: Familiar with containerization using Docker and orchestration with Kubernetes
+- **Testing**: Experienced in writing unit tests and conducting integration testing
 
-### 💼 Experience
+### 💼 Professional Journey
 
-I have been working as a frontend developer for 3 years, gaining valuable experience and honing my skills along the way. During this time, I have successfully completed various projects, collaborating with teams to deliver high-quality web applications.
+With over 4 years of experience as a Backend Developer, I have worked on various projects, ranging from Server platforms to complex web applications. My passion for clean and maintainable code has led to successful and efficient project deliveries.
 
-### 🌱 Continuous Learning
+### 🌱 Lifelong Learning
 
-As technology continues to evolve, I understand the importance of staying up-to-date with the latest trends and advancements in the frontend development world. I am constantly learning and exploring new tools and techniques to improve my skills and deliver cutting-edge solutions.
+As the tech industry evolves rapidly, I am committed to continuous learning and staying updated with the latest backend development trends. I actively explore new tools and methodologies to enhance my skills and deliver cutting-edge solutions.
 
-### 📫 Let's Connect
+### 📫 Let's Get in Touch
 
-If you would like to collaborate on a project, have any questions, or just want to say hi, feel free to reach out to me. You can contact me via discord at `Mert61#5577`.
+If you're interested in collaborating on backend projects, have any inquiries, or just want to connect, feel free to reach out to me. You can contact me via email at `robin-erik@outlook.com`.
 
-Thank you for visiting my GitHub profile. Have a great day!
+Thank you for visiting my GitHub profile. Have a wonderful day!
